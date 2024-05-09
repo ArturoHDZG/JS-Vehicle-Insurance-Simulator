@@ -14,9 +14,9 @@ A simple and efficient vehicle insurance quotes simulator using prototypes on Va
 2. Open the project folder in your preferred code editor.
 3. Make sure you have Node.js installed on your system. You can download it from <https://nodejs.org/>.
 4. Open a terminal or command prompt in the project folder and run the following command to install the required dependencies:
-npm install
+```npm install```
 5. Once the installation is complete, you can start the development server by running the following command:
-npm start
+```npm start```
 This will start a local development server at <http://localhost:3000>.
 6. Open your web browser and navigate to <http://localhost:3000> to access the Vehicle Insurance Quotes Simulator.
 
